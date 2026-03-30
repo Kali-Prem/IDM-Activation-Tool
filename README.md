@@ -2,6 +2,8 @@
 
 Use IDM forever without cracking. If you can, then buy a license to support the IDM developer.
 
+---
+
 ![IDM Activation](./assests/preview.png)
 
 ## 🚀 Method 1: Batch File (No PowerShell Policy Issues)
